@@ -24,4 +24,4 @@ Then, require the package and use it like so:
 
 MIT
 
-edit
+edit 2
